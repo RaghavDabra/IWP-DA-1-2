@@ -1,0 +1,30 @@
+*{
+    background-color: beige;
+    color:black;
+    font-size: large;
+
+
+}
+nav{
+    background-color:black;
+    height: 50px;
+}
+a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-left: 10px;   
+}
+.SSD {
+    margin-left: 650px;
+    padding: 15px;
+background-color: black;
+}
+h1{
+font-size: x-large;
+    text-align: center;
+}
+
+
+
